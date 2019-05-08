@@ -14,3 +14,11 @@ Existing tours
 | Example   | Just a simple example to show how the tour         | PMunch    |
 |           | system works.                                      |           |
 +-----------+----------------------------------------------------+-----------+
+
+Writing new tours
+-----------------
+
+The playground supports showing a tour hosted anywhere. So to see how a tour will
+look before comitting it to this repo simply upload it somewhere (could even be
+a paste-site like https://ix.io) and go to
+https://play.nim-lang.org/index.html?tour=<URL escaped link to the tour>
